@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bryce-tan.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brycetan.brycetan&left_color=green&right_color=red)
 
 ---
 
