@@ -1,6 +1,6 @@
-# Hello, I'm Bryce! 👋
+# Hi there! 👋
 
-## Ph.D. Student in Computer System Architecture at Huazhong University of Science and Technology
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bryce-tan)
 
 ---
 
@@ -22,6 +22,4 @@ Exploring innovative methods to enhance the efficiency and performance of storag
 
 ### 🤝 Connect with Me
 I’m open to collaborations or discussions that can push the boundaries of our current understanding of storage technologies and cloud computing. Feel free to reach out to me if you share similar interests or have questions about my research.
-
-### 📫 How to Reach Me:
 - **Email:** [difan_tan@hust.edu.cn](mailto:difan_tan@hust.edu.cn)
