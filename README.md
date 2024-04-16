@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brycetan.brycetan&left_color=green&right_color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=bryce-tan)
 
 ---
 
