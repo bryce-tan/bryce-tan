@@ -1,36 +1,27 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">Ph.D. Student in Computer System Architecture at Huazhong University of Science and Technology</h3>
+# Hello, I'm Bryce! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/some-creative-folder/banner.jpg" alt="Banner saying hello">
-</p>
+## Ph.D. Student in Computer System Architecture at Huazhong University of Science and Technology
 
 ---
 
-🔭 I’m currently working with the brilliant minds at the **IDSM Lab**, where we're pushing the boundaries of computing!
+### 🏢 About Me
+I am currently pursuing my Ph.D. at **Huazhong University of Science and Technology**, specializing in Computer System Architecture. I work with the IDSM Lab, which focuses on advanced research in storage systems.
 
-🌱 **My Research Interests:**
+### 🎯 Research Interests
 - **Resource Allocation and Scheduling on Cloud Platforms**
 - **Read-Write Optimization for ZNS SSDs**
 
-⚡ **Fun Fact:** When I'm not geeking out on my research, I love to:
-- ⚽ Play football
-- 🏸 Smash a few shuttlecocks in badminton
-- 🎵 Enjoy various genres of music
-- 📷 Capture the world through my lens
+### 📚 I’m currently working on:
+Exploring innovative methods to enhance the efficiency and performance of storage systems, particularly for cloud platforms and ZNS-based SSDs.
+
+### 🌍 Personal Interests
+- Football and badminton for staying active.
+- Music and photography to feed my soul.
 
 ---
 
-👯 I’m looking to collaborate on projects related to my research interests or just to chat about the latest trends in technology and science.
+### 🤝 Connect with Me
+I’m open to collaborations or discussions that can push the boundaries of our current understanding of storage technologies and cloud computing. Feel free to reach out to me if you share similar interests or have questions about my research.
 
-💬 Ask me about anything tech-related, my research, or about the best camera settings for night photography!
-
-📫 **How to reach me:** Shoot me an email at difan_tan@hust.edu.cn or just say hi on my socials!
-
-📄 Know about my experiences by checking out my publications and projects [here](link-to-your-research-publications-or-projects).
-
-🌟 **Fun, right?** I believe in making science and learning as joyful and accessible as possible!
-
----
-
-<h3 align="center">📢 Let's connect and build something awesome together!</h3>
+### 📫 How to Reach Me:
+- **Email:** [difan_tan@hust.edu.cn](mailto:difan_tan@hust.edu.cn)
