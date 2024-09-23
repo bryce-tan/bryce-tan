@@ -12,7 +12,7 @@ I am currently pursuing my Ph.D. at **Huazhong University of Science and Technol
 - **Read-Write Optimization for ZNS SSDs**
 
 ### 📚 I’m currently working on:
-Exploring innovative methods to enhance the efficiency and performance of storage systems, particularly for cloud platforms and ZNS-based SSDs.
+Exploring innovative methods to enhance the efficiency and performance of storage systems, particularly for cloud platforms and SSDs.
 
 ### 🌍 Personal Interests
 - Football and badminton for staying active.
