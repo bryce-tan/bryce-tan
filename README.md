@@ -9,17 +9,19 @@ I am currently pursuing my Ph.D. at **Huazhong University of Science and Technol
 
 ### 🎯 Research Interests
 - **Resource Allocation and Scheduling on Cloud Platforms**
-- **Read-Write Optimization for ZNS SSDs**
+- **Load Balancing and Placement in Cloud Storage Systems**
+- **Data Bottleneck Optimization for Deep Learning Training (Systems for ML)**
 
 ### 📚 I’m currently working on:
-Exploring innovative methods to enhance the efficiency and performance of storage systems, particularly for cloud platforms and SSDs.
+Exploring practical and scalable methods to improve the efficiency and performance of cloud storage systems, and optimizing data-loading/data-access pipelines to reduce training stalls and boost end-to-end throughput.
 
 ### 🌍 Personal Interests
 - Football and badminton for staying active.
 - Music and photography to feed my soul.
+- Movies for inspiration and storytelling.
 
 ---
 
 ### 🤝 Connect with Me
-I’m open to collaborations or discussions that can push the boundaries of our current understanding of storage technologies and cloud computing. Feel free to reach out to me if you share similar interests or have questions about my research.
+I’m open to collaborations, discussions, or any opportunities to work together on related research ideas—feel free to reach out if you’re interested in collaboration or have questions about my work.
 - **Email:** [difan_tan@hust.edu.cn](mailto:difan_tan@hust.edu.cn)
