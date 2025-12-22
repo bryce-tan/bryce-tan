@@ -13,7 +13,7 @@ I am currently pursuing my Ph.D. at **Huazhong University of Science and Technol
 - **Data Bottleneck Optimization for Deep Learning Training (Systems for ML)**
 
 ### 📚 I’m currently working on:
-Exploring practical and scalable methods to improve the efficiency and performance of cloud storage systems, and optimizing data-loading/data-access pipelines to reduce training stalls and boost end-to-end throughput.
+Exploring practical and scalable methods to improve the efficiency and performance of cloud storage systems, and optimizing data-loading pipelines to reduce training stalls and boost end-to-end throughput.
 
 ### 🌍 Personal Interests
 - Football and badminton for staying active.
